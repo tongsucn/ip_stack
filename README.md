@@ -1,4 +1,4 @@
 ip_stack
 ========
 
-A IP protocol implementation test.
+An IP protocol implementation test.
